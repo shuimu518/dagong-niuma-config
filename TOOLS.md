@@ -72,7 +72,7 @@ DeepSeek Harness 无法启动、报错 "is not a symlink" 或端口冲突时 →
 需要将HTML网页发布到GitHub Pages时 → 先读 `plug-github-pages\SKILL.md` 了解完整流程 → 按步骤执行
 
 ### 能力范围
-1. **HTML生成**：读取8个配置文件，生成带Tab切换的交互式网页
+1. **HTML生成**：读取8个配置文件，生成**单页平铺版**网页（所有内容连续展示，不用标签切换；格式以老板要求为准）
 2. **Git仓库管理**：git init/config/add/commit/push全流程
 3. **GitHub仓库创建**：使用API自动创建仓库
 4. **gh-pages分支发布**：orphan分支部署Pages
